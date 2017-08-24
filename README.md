@@ -1,2 +1,1 @@
-I am working on graphs classification problem.
-
+I am working on Small-angle X-ray scattering classification problem. 
