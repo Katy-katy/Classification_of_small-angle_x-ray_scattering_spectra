@@ -1,4 +1,4 @@
-I am working on Small-angle X-ray scattering classification problem. My goal is to automate creating labels for plots of small-angle x-ray scattering spectra using supervised or unsupervised learning.
+I am working on Small-angle X-ray scattering classification problem. My goal is to automate creating labels for plots of small-angle x-ray scattering spectra using **supervised or unsupervised learning**.
 
 ## The PAWS project in a nutshell:  
 * data analysis at SSRL presents a bottleneck. 
