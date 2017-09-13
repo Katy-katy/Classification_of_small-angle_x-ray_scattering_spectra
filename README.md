@@ -7,3 +7,5 @@ I am working on Small-angle X-ray scattering classification problem. My goal is 
 
 Paws (“Platform for Automated Workflows by SSRL”) was invited as a fast and robust tool for analysing of  x-ray scattering spectra.  
 https://pypi.python.org/pypi/pypaws/0.7.4
+
+https://github.com/slaclab/paws
