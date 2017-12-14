@@ -9,3 +9,8 @@ Paws (“Platform for Automated Workflows by SSRL”) was invited as a fast and 
 https://pypi.python.org/pypi/pypaws/0.7.4
 
 https://github.com/slaclab/paws
+
+
+Most of my work is in **saxskit**: Python module that is used for small angle x-ray scattering data analysis in PAWS and also can be used separetly:
+
+https://github.com/scattering-central/saxskit
